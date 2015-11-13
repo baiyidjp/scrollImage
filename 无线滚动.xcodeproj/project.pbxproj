@@ -416,6 +416,7 @@
 				F5B19E541B7ED9FE00109D9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5B19E551B7ED9FE00109D9E /* Build configuration list for PBXNativeTarget "无线滚动Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				F5B19E571B7ED9FE00109D9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
